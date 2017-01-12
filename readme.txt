@@ -18,10 +18,10 @@ Using WordPress official logic in /wp-admin/js/word-count.js.
 
 == Installation ==
 
-1.Upload 'the-word-count' to the '/wp-content/plugins/' directory
-1.Activate the plugin through the 'Plugins' menu in WordPress
-1.Check posts list page.
-1.Enjoy!
+1. Upload 'the-word-count' to the '/wp-content/plugins/' directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Check posts list page.
+4. Enjoy!
 
 == Changelog ==
 
